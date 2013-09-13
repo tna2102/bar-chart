@@ -1,0 +1,50 @@
+setwd("setwd("~/dataviz-fall-2013/bar-chart")
+setwd("~/dataviz-fall-2013/bar-chart")
+ls()
+dir()
+"Ishould exercise more."
+1+1
+1 ==2
+1 == 2
+1 ==1
+1:1000
+animals <- c("bears, "monkeys", "donkeys")")
+animals <- c("bears,"monkeys","donkeys")
+animals <- c("bears", "monkeys", "donkeys")
+animals
+prices <- read.csv(subscription-prices.csv"")
+prices <- read.csv("subscription-prices.csv")
+prices <- read.csv("subscription-prices.csv")
+class(prices)
+dim(prices)
+head(prices)
+tail(prices)
+plot(prices$x2013)
+prices$X2013
+names(prices)
+prices$network
+prices[1:2,1]
+plot(prices$X2013)
+max(1:100)
+max(pricesX2013)
+max(prices$X2013)
+min(prices$X2013)
+subset(prices$X2013 ==5.54)
+subset(prices, X2013 == 0)
+mean(prices$X2013)
+plot(prices$X2013)
+order(prices$X2013)
+prices <- prices[order(prices$X2013, decreasing=T),]
+plot(prices$2013)
+plot(prices$x2013)
+plot(prices$X2013)
+barplot(prices$X2013)
+plot(prices$X2013)
+barplot(prices$X2013)
+plot(prices$X2013)
+plot(prices$X2013, type="1")
+barplot(prices$X2013, col="lightgrey", border=F, main="Total control!", ylab="Price")
+prices <- prices[order(prices$X2013),]
+barcolors <- ifelse(prices$Network == "ESPN", "red", "lightgrey")
+barplot(prices$X2013, col=barcolors, border=F, main="Now with custom colors!", ylab="Price")
+prices$Network == "ESPN"
